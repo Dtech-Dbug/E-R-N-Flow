@@ -1,0 +1,3 @@
+Controllers
+
+=> Controllers are function that seperates the code between route request and the code that actually processes the request.
