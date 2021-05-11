@@ -1,0 +1,11 @@
+Hello this a github repo , with basic functions and opearions to help you get started with Nodejs , Express and MongoDb.
+
+The dependancies included are :
+Nodemon : for auto tracking changes made , without having to cut down and restart the server.
+express :built upon Nodejs , a very popular package for server side functions.
+Body-parser : For parsing the request body , beacuse express doesn't parse the json , by default.
+express-validator : for server side validations.
+mongoose : for connecting to mongoDb.
+dotenv : for storing env variables in a sepearte file with ext .env.
+morgan : a middleware , which makes it easier to view the request logs.
+
